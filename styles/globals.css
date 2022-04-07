@@ -14,3 +14,6 @@ a {
 * {
   box-sizing: border-box;
 }
+.gambar{
+  border-radius: 99px;
+}
